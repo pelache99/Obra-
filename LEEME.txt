@@ -1,0 +1,18 @@
+MI CONTROL DE OBRA - VERSIÓN SIN INTERNET
+
+Esta versión funciona sin conexión después de abrirla por primera vez con internet y dejar que termine de cargar.
+
+PUBLICAR EN GITHUB PAGES:
+1. Sube TODOS los archivos de esta carpeta a la raíz del repositorio:
+   index.html, sw.js, manifest.json, icon.svg y LEEME.txt.
+2. En GitHub abre Settings > Pages.
+3. Elige Deploy from a branch, rama main y carpeta /(root).
+4. Guarda y abre la dirección https de GitHub Pages mientras tienes internet.
+5. Espera a que cargue por completo. El navegador guardará la app para usarla sin conexión.
+6. En el móvil, usa "Añadir a pantalla de inicio" desde el menú del navegador si quieres abrirla como una app.
+
+IMPORTANTE:
+- El modo sin conexión se activa después de la primera visita online.
+- Los gastos se guardan en el navegador de ese dispositivo.
+- No borres los datos del sitio/navegador. Descarga copias de seguridad desde la app.
+- Para usarla en otro móvil, restaura allí una copia de seguridad.

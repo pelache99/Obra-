@@ -1,0 +1,10 @@
+{
+  "name": "Mi control de obra",
+  "short_name": "Mi obra",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6f4",
+  "theme_color": "#173b32",
+  "lang": "es"
+}
